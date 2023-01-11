@@ -1,4 +1,6 @@
 {
   "files.autoSave": "afterDelay",
-  "html.format.wrapAttributes": "force-aligned"
+  "html.format.wrapAttributes": "force-aligned",
+  "html.format.enable": false,
+  "html.format.preserveNewLines": false
 }
